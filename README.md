@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OreoXD1
+- 👋 Hi, I’m Arijit Ghosh.
 - 👀 I’m interested in web development and data analytics.
 - 🌱 I’m currently in my 4th year of BTech in IT.
 - 💞️ I’m looking to collaborate on any web dev or alalytics projects.
